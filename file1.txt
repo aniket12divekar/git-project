@@ -7,5 +7,7 @@ feature2 -logout
 feature1 -login
 feature2 -log\]gj;'zj{J<"out
 bug2 fixed
+change the local
+
 
 chandfe 4 tjger tigry andf d,slgm,j
