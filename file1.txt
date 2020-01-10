@@ -3,3 +3,4 @@ welcome to git hub.....
 
 feature1 -login
 feature2 -logout
+bug2 fixed
